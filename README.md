@@ -74,10 +74,6 @@ Python 3.11+, Flask, LangChain, ChromaDB, Sentence-Transformers, DeepSeek (OpenR
    ```
 6. Open [http://localhost:5000](http://localhost:5000) in your browser.
 
-## Usage
-- Upload one or more technical PDFs.
-- Ask questions about the documents.
-- Get context-aware answers with source citations.
 
 ## Folder Structure
 - `app.py` — main Flask app
