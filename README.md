@@ -39,6 +39,11 @@ A modern, RAG-powered GenAI assistant for querying technical documents (PDFs) wi
   - Clean project structure, .gitignore, and .dockerignore included.
 
 ---
+**Screenshots**
+<img src=""/>
+<img src=""/>
+
+---
 
 **Tech Stack:**  
 Python 3.11+, Flask, LangChain, ChromaDB, Sentence-Transformers, DeepSeek (OpenRouter), markdown2, HTML/CSS
