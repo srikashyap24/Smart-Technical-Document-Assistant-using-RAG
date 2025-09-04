@@ -49,5 +49,4 @@ A modern, RAG-powered GenAI assistant for querying technical documents (PDFs) wi
 ## Deployment
 - Ready for HuggingFace Spaces, Streamlit Cloud, AWS, or Azure
 
-## License
-MIT
+
