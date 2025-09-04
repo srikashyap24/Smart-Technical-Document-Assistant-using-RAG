@@ -40,8 +40,8 @@ A modern, RAG-powered GenAI assistant for querying technical documents (PDFs) wi
 
 ---
 **Screenshots**
-<img src=""/>
-<img src=""/>
+<img src="upload_documents.png"/>
+<img src="result.png"/>
 
 ---
 
